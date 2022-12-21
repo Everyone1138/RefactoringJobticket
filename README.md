@@ -32,7 +32,7 @@ SO THAT our own site is optimized for search engines
 
 ## Mock Up
 
-![The Horisean we page mock up that includes a navigation bar, a header image, and cards with text and images at the bottom of the page](./images/Screenshot%20(118).png)
+![The Horisean we page mock up that includes a navigation bar, a header image, and cards with text and images at the bottom of the page](./assets/images/Screenshot%20(118).png)
 
 ----
 
